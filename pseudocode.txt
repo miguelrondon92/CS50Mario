@@ -1,0 +1,30 @@
+$ ./mario
+Height: 8
+       #
+      ##
+     ###
+    ####
+   #####
+  ######
+ #######
+########
+
+
+first 
+.......#
+
+Second 
+......##
+
+Third
+.....###
+
+....
+
+
+
+
+height 8, row 0: space 7,
+height 8, row 1: space 6. 
+
+Height - Row -1 
